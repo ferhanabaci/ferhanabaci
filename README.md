@@ -5,7 +5,7 @@ I graduated from the Department of Governance Information Systems. I am actively
 
 ## Skills and Experience
 
-JavaScript HTML5 CSS3 Sass React Redux TailwindCSS NextJs NodeJS Express Firebase
+* 💻 HTML, CSS, React , C# , SQL
 
 
 
