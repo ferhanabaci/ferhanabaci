@@ -2,11 +2,13 @@
 #### I am software developer
 c# geliştiricisiyim 
 
-##Skills and Experience
+## Skills and Experience
 
-Function | MySQL / MariaDB | PostgreSQL | SQLite
-:------------ | :-------------| :-------------| :-------------
-substr | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
+* ⚛ React
+
+* 💻 HTML, CSS, C#
+
+
 
 
 
