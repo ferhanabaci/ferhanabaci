@@ -5,7 +5,7 @@ I graduated from the Department of Governance Information Systems. I am actively
 
 ## Skills and Experience
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,jenkins,docker,react&theme=light)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker,postgres,jenkins,react&theme=light)](https://skillicons.dev)<br><br>
 
 
 
