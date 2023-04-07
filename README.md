@@ -5,7 +5,7 @@ I graduated from the Department of Governance Information Systems. I am actively
 
 ## Skills and Experience
 
-* 💻 HTML, CSS, React , C# , SQL
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,rabbitmq,postgres&theme=light)](https://skillicons.dev)<br><br>
 
 
 
